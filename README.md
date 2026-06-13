@@ -10,6 +10,13 @@ The dataset contains information on 12,294 anime titles with 7 features. It incl
 
 ## EDA
 
+
 ## ML Model
 
 ## Model Evaluation
+
+## Key Insights
+Certain anime genres consistently receive higher ratings.
+Popular anime attract significantly larger user engagement.
+User preferences exhibit clear viewing patterns.
+Recommendation systems effectively identify similar anime titles.
