@@ -20,3 +20,7 @@ Certain anime genres consistently receive higher ratings.
 Popular anime attract significantly larger user engagement.
 User preferences exhibit clear viewing patterns.
 Recommendation systems effectively identify similar anime titles.
+## Results
+The developed recommendation system successfully generates relevant anime recommendations by leveraging user rating behavior and anime similarity metrics.
+
+The project demonstrates the practical application of data preprocessing, exploratory data analysis, feature engineering, and recommendation system development in a real-world entertainment dataset.
