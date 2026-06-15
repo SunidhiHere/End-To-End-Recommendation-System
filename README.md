@@ -13,7 +13,21 @@ The dataset contains information on 12,294 anime titles with 7 features. It incl
 
 ## ML Model
 
+
 ## Model Evaluation
+## Recommendation System
+The recommendation engine suggests anime based on user interests and similarity patterns.
+Methodology
+Create User-Anime Interaction Matrix
+Compute Similarity Scores
+Identify Similar Anime
+Generate Recommendations
+Return Top-N Anime Suggestions
+Features
+Personalized Recommendations
+Similar Anime Discovery
+User Preference-Based Suggestions
+Scalable Recommendation Framework
 
 ## Key Insights
 Certain anime genres consistently receive higher ratings.
