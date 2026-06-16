@@ -9,7 +9,12 @@ The project combines Exploratory Data Analysis (EDA) with Recommendation System 
 The dataset contains information on 12,294 anime titles with 7 features. It includes details such as anime_id, name, genre, type, episodes, rating, and members. The dataset provides information about different anime series and movies, including their genres, formats, episode counts, user ratings, and community popularity, making it suitable for exploratory data analysis, recommendation systems, popularity prediction, and audience preference analysis projects.
 
 ## EDA
-
+Conducted an in-depth analysis of the anime dataset to understand the distribution of ratings, popularity, genres, and user engagement patterns. Initial exploration involved examining dataset dimensions, data types, missing values, and duplicate records to ensure data quality and consistency before further analysis.
+Analyzed the distribution of anime ratings to identify overall user sentiment and determine whether users tend to rate anime positively or negatively. Statistical summaries and visualizations were used to understand rating trends and detect potential outliers.
+Investigated the most popular and highest-rated anime titles by comparing average ratings and member counts. This helped identify anime that not only received strong ratings but also attracted significant audience engagement.
+Performed genre-wise analysis to understand audience preferences across different anime categories. Visualizations highlighted the genres with the highest popularity and average ratings, providing insights into viewer interests.
+Explored user rating behavior by examining rating frequency and participation levels. This analysis helped identify active users, rating patterns, and the overall structure of user engagement within the platform.
+Created visual representations using Matplotlib and Seaborn, including histograms, bar charts, and distribution plots, to effectively communicate insights and support the development of the recommendation system.
 
 ## ML Model
 
