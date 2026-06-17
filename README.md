@@ -17,7 +17,11 @@ Explored user rating behavior by examining rating frequency and participation le
 Created visual representations using Matplotlib and Seaborn, including histograms, bar charts, and distribution plots, to effectively communicate insights and support the development of the recommendation system.
 
 ## ML Model
-
+Collaborative Filtering: Implemented collaborative filtering techniques to generate recommendations based on user rating behavior. The model identifies similarities between anime titles by analyzing patterns in user preferences and interactions.
+Cosine Similarity: Utilized Cosine Similarity to measure the similarity between anime vectors within the user-anime interaction matrix. Anime with higher similarity scores are recommended to users based on their viewing history and preferences.
+K-Nearest Neighbors (KNN) for Recommendation: Applied KNN-based recommendation logic to identify the most similar anime titles and generate personalized recommendations. This approach helps discover anime that share similar rating patterns among users.
+User-Anime Interaction Matrix: Constructed a sparse matrix representing user ratings for anime titles, serving as the foundation for similarity calculations and recommendation generation.
+Recommendation Engine: Combined similarity-based techniques and user preference analysis to create an efficient recommendation system capable of suggesting relevant anime titles based on historical user ratings.
 
 ## Model Evaluation
 ## Recommendation System
