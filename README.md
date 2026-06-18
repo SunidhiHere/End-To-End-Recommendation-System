@@ -24,6 +24,12 @@ User-Anime Interaction Matrix: Constructed a sparse matrix representing user rat
 Recommendation Engine: Combined similarity-based techniques and user preference analysis to create an efficient recommendation system capable of suggesting relevant anime titles based on historical user ratings.
 
 ## Model Evaluation
+The recommendation system was evaluated by analyzing the relevance and similarity of the anime titles suggested to users. Recommendations generated through Collaborative Filtering and Cosine Similarity were manually validated to ensure that the suggested anime shared comparable genres, themes, and user rating patterns with the selected anime.
+Similarity scores were examined to measure how closely related the recommended anime were to the input title. Higher similarity values indicated stronger relationships between anime, resulting in more accurate and meaningful recommendations.
+The user-anime interaction matrix was assessed to verify that user preferences were effectively captured and utilized during recommendation generation. This ensured that the model leveraged historical rating behavior to identify hidden patterns and viewing preferences.
+Recommendation quality was further evaluated by testing multiple anime titles across different genres and comparing the suggested results with known popular and related anime. The generated recommendations demonstrated strong consistency and relevance, indicating that the model successfully identified similar anime based on user rating trends.
+Overall, the recommendation engine achieved effective performance in delivering personalized and relevant anime suggestions, showcasing the practical application of similarity-based recommendation techniques in entertainment and content recommendation systems.
+
 ## Recommendation System
 The recommendation engine suggests anime based on user interests and similarity patterns.
 Methodology
