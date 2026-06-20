@@ -46,6 +46,12 @@ Similar Anime Discovery
 User Preference-Based Suggestions
 Scalable Recommendation Framework
 
+## Deployment
+The Anime Recommendation System was successfully deployed as a web application using GitHub Pages, enabling users to access the project through a browser without requiring any local installation or configuration. The deployment provides an intuitive and responsive interface for exploring the recommendation system, project workflow, and analytical insights generated from the anime ratings dataset.
+The deployed application showcases the complete end-to-end implementation of the project, including data preprocessing, exploratory data analysis, recommendation engine development, and result visualization. It allows users to interact with the system and understand how recommendations are generated based on user preferences and similarity measures.
+GitHub Pages was utilized as the hosting platform to ensure seamless accessibility, fast loading times, and easy maintenance. The deployment demonstrates the practical integration of data science, machine learning, and web technologies to transform a notebook-based project into a publicly accessible portfolio application.
+Live Project Link: https://sunidhihere.github.io/End-To-End-Recommendation-System/
+
 ## Key Insights
 Certain anime genres consistently receive higher ratings.
 Popular anime attract significantly larger user engagement.
