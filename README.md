@@ -1,4 +1,8 @@
-# End-To-End-Recommendation-System
+<h1 align="center">
+  <span style="background-color:black; color:#a855f7; padding:10px 20px; border-radius:8px;">
+    End-To-End-Recommendation-System
+  </span>
+</h1>
 <img width="1408" height="714" alt="Gemini_Generated_Image_z8afjcz8afjcz8af" src="https://github.com/user-attachments/assets/f5018d6c-0a0c-45fb-94d0-cfe07b6377fa" />
 
 
