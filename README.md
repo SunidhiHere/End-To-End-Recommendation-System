@@ -1,10 +1,6 @@
-<div align="center">
-
-<img src="https://img.shields.io/badge/End--To--End--Recommendation--System-8A2BE2?style=for-the-badge&labelColor=000000" />
-
-</div>
-<img width="1408" height="714" alt="Gemini_Generated_Image_z8afjcz8afjcz8af" src="https://github.com/user-attachments/assets/f5018d6c-0a0c-45fb-94d0-cfe07b6377fa" />
-
+<h1 align="center">
+  🟣 End-To-End-Recommendation-System 🟣
+</h1>
 
 ## Introduction
 The Anime Ratings Analysis & Recommender System is a Data Science project designed to analyze anime rating patterns and develop a recommendation engine that suggests anime based on user preferences.
